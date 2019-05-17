@@ -12,4 +12,4 @@ while( input!== "quit")
    }  
   var input = prompt("Hey What would you like to do");
 }
-alert("Thats OK..! Your quiting APP");
+alert("Thats OK...! Your quiting APP");
